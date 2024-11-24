@@ -12,13 +12,11 @@ RackNerd, founded in 2019, is a U.S.-based hosting provider that has rapidly gai
 
 **Website**: [www.racknerd.com](https://my.racknerd.com/aff.php?aff=12992)
 
----
 
 ## RackNerd Promo Codes
 
 Use promo code **[15OFFDEDI](https://my.racknerd.com/aff.php?aff=12992)** to save **15% for life** on all dedicated server plans.
 
----
 
 ### 2024 Black Friday Special Offers
 
@@ -30,7 +28,6 @@ Use promo code **[15OFFDEDI](https://my.racknerd.com/aff.php?aff=12992)** to sav
 | 3 Cores | 4.5 GB  | 100 GB  | 8500 GB       | $39.88/year | [View Details](https://my.racknerd.com/aff.php?aff=12992&pid=882) |
 | 4 Cores | 5 GB    | 130 GB  | 12000 GB      | $55.93/year | [View Details](https://my.racknerd.com/aff.php?aff=12992&pid=883) |
 
----
 
 ## RackNerd Key Features
 
@@ -49,8 +46,6 @@ Use promo code **[15OFFDEDI](https://my.racknerd.com/aff.php?aff=12992)** to sav
 
 4. **Excellent Customer Support**  
    RackNerd is renowned for its 24/7 technical support, providing quick responses and professional solutions. Whether you’re a novice or an experienced user, you’ll appreciate their reliable assistance.
-
----
 
 ## Who Should Use RackNerd?
 
